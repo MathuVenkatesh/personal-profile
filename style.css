@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.header
+{
+background-color: #EAF6F6;
+
+}
+h2,h3{
+    color: #66BFBF;
+    font-family: serif;    
+    
+}
+h1
+{
+    font-family: 'Niconne', cursive;
+    color: #66BFBF;
+}
+.pro
+{
+    text-decoration: underline;
+}
+.cloudtop
+{
+    position: relative;
+    top: 0px;
+    left: 200px;
+    padding: 30px;
+}
+
+.bottomcloud
+{
+    position: absolute;
+    
+}
+.middle{
+    margin-top: 20px;
+}
+
+hr{
+    
+    border: dotted #EAF6F6 6px; 
+    border-bottom:none;
+    width: 6%;
+    margin: 100px auto;
+}
+
+
+.development
+{
+    float: left;
+    width: 150px;
+    margin-right: 10px;
+}
+.chillies
+{
+float: right;
+width: 150;
+margin-left: 2px;
+
+}
+.skill-1
+{
+    width: 60%;
+    margin-left:auto ;
+    margin-right: auto;
+    text-align: left;
+    margin-bottom: 100px;
+    line-height: 2;
+}
+.skill-2
+{
+    width: 60%;
+    margin-left:auto ;
+    margin-right: auto;
+    text-align: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    line-height: 2;
+
+}
+button
+{
+    
+    color: white;
+    padding: 8px;
+    border-radius: 8px;
+    width: 15%;
+    height: 5%;
+    font-size: large;
+    border: none;
+    background-image: linear-gradient(to bottom, #11999e, #3498db)
+    
+    
+}
+button:hover
+{
+    background: #f03cfd;
+}
+.footercontent
+{
+    color: #EAF6F6;
+    font-size: 13px;
+}
+
+.footer
+{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 50px;
+    
+    
+}
+a{
+    color:11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
